@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessManager", "ProcessManager\ProcessManager.csproj", "{5EFC49C7-5F85-44AA-9E4D-559A3FB9A764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{F51DBB68-D01F-4340-9C36-11C383D72CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFC49C7-5F85-44AA-9E4D-559A3FB9A764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFC49C7-5F85-44AA-9E4D-559A3FB9A764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFC49C7-5F85-44AA-9E4D-559A3FB9A764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFC49C7-5F85-44AA-9E4D-559A3FB9A764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F51DBB68-D01F-4340-9C36-11C383D72CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F51DBB68-D01F-4340-9C36-11C383D72CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F51DBB68-D01F-4340-9C36-11C383D72CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F51DBB68-D01F-4340-9C36-11C383D72CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
